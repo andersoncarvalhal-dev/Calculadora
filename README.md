@@ -3,12 +3,12 @@
 <h2 align="center"> Calculadora com HTML, CSS e JavaScript </h2>
 
 # 📒 Resumo do Projeto
-Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
+Projeto em andamento, visando a prática com a linguagem JavaScript e HTML.
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
 - ``JavaScript``
-- ``Html``
+- ``HTML``
 -  ``CSS``
 
 ![](https://img.shields.io/badge/Language-JavaScript-yellow)![](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-blue) ![](https://img.shields.io/badge/Environment-Windows-red) ![](https://img.shields.io/badge/User%20Interface-GUI%20%2B%20CLI-yellowgreen)
@@ -74,7 +74,23 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 
 ## 📦 Implantação
 
-
+**CENÁRIO 1:**
+- BACK → Funções em JS
+- Todas as funções feitas em Javascript
+  - insert()
+  - clean()
+  - back()
+  - calcular()
+- Entregar Prints do processo
+- GITHUB → Integração com as ferramentas do Git
+  - Subir para o repositório do Git
+  - Integração com o workflows do Git Action
+- ACTIONS (GITHUB) → Entregar Prints do processo
+  - Build do código
+  - Teste (Npm test)
+  - Deploy: Action
+  - Integração com GitHub Pages
+  - Mostrar a calculadora funcionando
 
 ## 🛠️ Construído com
 
