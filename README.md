@@ -1,6 +1,6 @@
 # Calculadora com HTML, CSS e JavaScript
 
-<h1 align="center"> Calculadora com HTML, CSS e JavaScript </h1>
+<h2 align="center"> Calculadora com HTML, CSS e JavaScript </h2>
 
 # 📒 Resumo do Projeto
 Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
