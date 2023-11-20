@@ -47,7 +47,7 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 
 ## 🚀 Começando
 
-![image](https://github.com/nervaljunior/Tm_APP/assets/108685222/3ba78979-8ccf-43c3-adff-0f2b4b1940f6)
+![image](https://github.com/andersoncarvalhal-dev/Calculadora/assets/108685222/f08e198c-b35b-4744-bc0a-de905da91f36)
 
 ## diagramação 
 
