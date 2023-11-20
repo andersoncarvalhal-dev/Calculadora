@@ -12,19 +12,19 @@
 }
 .calculadora{
     position: absolute;
-    background-color: rgba(148, 147, 147, 0.8);
+    background-color: rgb(32, 32, 32);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 10px;
-    padding: 1px;
+    padding: 10px;
 }
 .botao{
     width: 50px;
     height: 50px;
     font-size: 25px;
     cursor: pointer;
-    background-color: rgb(31, 31, 31);
+    background-color: #363636;
     border: none;
     color: rgb(255, 255, 255);
     border-radius: 4px;
@@ -32,7 +32,7 @@
 
 }
 .botao:hover{
-   background-color: rgb(0, 0, 0); 
+   background-color: #2c2c2c; 
 }
 .igual{
     width: 50px;
@@ -51,10 +51,10 @@
 }
 #resultado{
     background-color: white;
-    width: 195;
-    height: 50px;
+    width: 205px;
+    height: 30px;
     margin: 5px;
-    font-size: 40px;
+    font-size: 20px;
     color: black;
     text-align: right;
     border-radius: 4px;
