@@ -1,10 +1,11 @@
+# Calculadora com HTML, CSS e JavaScript
+
 <h1 align="center"> Calculadora com HTML, CSS e JavaScript </h1>
 
-
-# 📒 Resumo do projeto
+# 📒 Resumo do Projeto
 Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e Tecnologias Utilizadas
 
 - ``JavaScript``
 - ``Html``
@@ -27,19 +28,14 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
       - name: Run NPM Test
         run: npm test
 
-
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-
-
-
 
 ## ✒️ Autores
 
 * **Nerval de Jesus Santos Junior** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub](https://github.com/nervaljunior)
 * **Anderson Carvalhal** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub](https://github.com/andersoncarvalhal-dev)
-
 
 ## 📌 Planejamento
 
@@ -49,7 +45,7 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 
 ![image](https://github.com/andersoncarvalhal-dev/Calculadora/assets/108685222/f08e198c-b35b-4744-bc0a-de905da91f36)
 
-## diagramação 
+## Diagramação 
 
 #### Caso de Uso
 
@@ -62,7 +58,6 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 
 ### 📋 Pré-requisitos
 
-
 - StarUML para visualização do UML
 
 ### 🔧 Instalação
@@ -71,7 +66,7 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 2. Configure o servidor...
 3. Importe o banco de dados utilizando o ...
 
-## ⚙️ Executando os testes
+## ⚙️ Executando os Testes
 
 
 
@@ -106,7 +101,7 @@ Sinta-se à vontade para contribuir com melhorias ou correções neste projeto. 
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/andersoncarvalhal-dev/Calculadora/blob/main/LICENSE) para detalhes.
 
-## 🎁 Expressões de gratidão
+## 🎁 Expressões de Gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma cerveja 🍺 - eu sugiro [Nerval Junior](https://github.com/nervaljunior)!!;
@@ -115,4 +110,3 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE.md](htt
 Licença: Creative Commons Attribution 4.0 International License
 
 Este trabalho está licenciado sob a Creative Commons Attribution 4.0 International License. Para ver uma cópia desta licença, visite [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en). Isso significa que você pode usar, compartilhar e adaptar este material, inclusive para fins comerciais, desde que forneça o crédito apropriado, forneça um link para a licença e indique se foram feitas alterações. Essa permissão é válida para todos os conteúdos contidos neste zip, e se estende ao uso e publicação no GitHub ou em outras plataformas.
-
