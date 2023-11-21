@@ -30,7 +30,7 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e HTML.
 2. Configure o servidor...
 
 ## ⚙️ Executando os Testes
-## NPM TEST
+# NPM TEST
 # NPM Test job
   npm-test:
     runs-on: ubuntu-latest
