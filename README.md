@@ -78,4 +78,10 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE.md](htt
 
 Licença: Creative Commons Attribution 4.0 International License
 
-Este trabalho está licenciado sob a Creative Commons Attribution 4.0 International License. Para ver uma cópia desta licença, visite [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en). Isso significa que você pode usar, compartilhar e adaptar este material, inclusive para fins comerciais, desde que forneça o crédito apropriado, forneça um link para a licença e indique se foram feitas alterações. Essa permissão é válida para todos os conteúdos contidos neste zip, e se estende ao uso e publicação no GitHub ou em outras plataformas.
+Este trabalho está licenciado sob a Creative Commons Attribution 4.0 International License. Para ver uma cópia desta licença, visite [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en). Isso significa que você pode usar, compartilhar e adaptar este material, inclusive para fins comerciais, desde que forneça o crédito apropriado, forneça um link para a licença e indique se foram feitas alterações. Essa permissão é válida para todos os conteúdos contidos neste zip, e se estende ao uso e publicação no GitHub ou em outras plataformas
+
+
+
+## link do Drive para Explicação
+- https://drive.google.com/drive/folders/1ftxpURAteNbYDUEOOBw46Lo-EXDu9Obb?usp=sharing
+
