@@ -1,9 +1,7 @@
 # Calculadora com HTML, CSS e JavaScript
 
-<h2 align="center"> Calculadora com HTML, CSS e JavaScript </h2>
-
 # 📒 Resumo do Projeto
-Projeto em andamento, visando a prática com a linguagem JavaScript e HTML.
+Projeto em andamento, visando a prática com a linguagem JavaScript.
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
@@ -30,8 +28,6 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e HTML.
 2. Configure o servidor...
 
 ## ⚙️ Executando os Testes
-# NPM TEST
-# NPM Test job
   npm-test:
     runs-on: ubuntu-latest
     needs: build
@@ -46,12 +42,6 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e HTML.
         run: npm install
       - name: Run NPM Test
         run: npm test
-
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
-
 
 ## 📦 Implantação
 
