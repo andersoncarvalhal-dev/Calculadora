@@ -22,7 +22,7 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e HTML.
 
 ## 🚀 Começando
 
-![image](https://github.com/andersoncarvalhal-dev/Calculadora/assets/108685222/f08e198c-b35b-4744-bc0a-de905da91f36)
+![image](https://github.com/andersoncarvalhal-dev/Calculadora/assets/17381058/f004b76f-e0c3-4536-89de-9a331831ced5)
 
 ### 🔧 Instalação
 
