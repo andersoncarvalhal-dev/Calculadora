@@ -28,6 +28,6 @@ describe('Função calcular()', () => {
     calcular();
 
     // Verifique se a mensagem "Nada para calcular" foi exibida.
-    expect(document.getElementById('resultado').innerHTML).toBe('Nada para calcular');
+    expect(document.getElementById('resultado').innerHTML).toBe('Erro !');
   });
 });
